@@ -14,8 +14,57 @@ All assignments for this course are listed below. Examples by one student, Kim A
 
 Overview of Assignments ([PDF]({{< baseurl >}}/resources/assign_over))  
 
-| LEC # | ASSIGNMENTS | STUDENT EXAMPLES |
-| --- | --- | --- |
-| 10 | First Memo - Setting the Framework ([PDF]({{< baseurl >}}/resources/memo_assign1)) | ([PDF]({{< baseurl >}}/resources/k_a_memo1)) (Courtesy of Alleyne Kim. Used with permission.) |
-| 17 | Second Memo - Housing and Community Development ([PDF]({{< baseurl >}}/resources/memo_assign2)) | ([PDF]({{< baseurl >}}/resources/k_a_memo2)) (Courtesy of Alleyne Kim. Used with permission.) |
-| 24 | Third Memo - Economic Development, Work and Jobs ([PDF]({{< baseurl >}}/resources/memo_assign3)) | ([PDF]({{< baseurl >}}/resources/k_a_memo3)) (Courtesy of Alleyne Kim. Used with permission.)
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+{{< thopen >}}
+STUDENT EXAMPLES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+First Memo - Setting the Framework ([PDF]({{< baseurl >}}/resources/memo_assign1))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/k_a_memo1)) (Courtesy of Alleyne Kim. Used with permission.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Second Memo - Housing and Community Development ([PDF]({{< baseurl >}}/resources/memo_assign2))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/k_a_memo2)) (Courtesy of Alleyne Kim. Used with permission.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Third Memo - Economic Development, Work and Jobs ([PDF]({{< baseurl >}}/resources/memo_assign3))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/k_a_memo3)) (Courtesy of Alleyne Kim. Used with permission.)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
